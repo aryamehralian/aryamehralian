@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryamehralian
-- 👀 I’m interested in Trade and Programing
+- 👀 I’m interested in Trade and Programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aryamehralian.com
