@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aryamehralian
-- 👀 I’m interested in Trading and Hacking
+<!--- - 👋 Hi, I’m @aryamehralian ... --->
+<!--- - 👀 I’m interested in Trading and Hacking ... --->
 <!--- - 🌱 I’m currently learning ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me aryamehralian.com --->
